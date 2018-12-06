@@ -1,0 +1,6 @@
+echo "# intro-html" >> README.md 
+git init 
+git add README.md 
+git commit -m "primer commit" 
+git remoto agregar origen https://github.com/ROD1991/intro-html.git
+ git push -u maestro de origen
